@@ -16,7 +16,10 @@
        KIND, either express or implied.  See the License for the
        specific language governing permissions and limitations
        under the License.
+       
 -->
+<name> will become <name>Ashok Keshri</name>
+<description>An Amazing app by Ashok</description>
 <cordova>
     <!--
     access elements control the Android whitelist.
